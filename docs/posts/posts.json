@@ -1,11 +1,11 @@
 [
   {
     "path": "posts/welcome/",
-    "title": "Welcome to My Blog",
-    "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
+    "title": "Tian Walker's Website",
+    "description": "See tabs to explore current projects and research",
     "author": [
       {
-        "name": "Nora Jones",
+        "name": "",
         "url": "https://example.com/norajones"
       }
     ],
@@ -13,7 +13,7 @@
     "categories": [],
     "contents": "\n\n\n\n",
     "preview": {},
-    "last_modified": "2024-04-30T00:24:00-07:00",
+    "last_modified": "2024-04-30T01:37:41-07:00",
     "input_file": {}
   }
 ]

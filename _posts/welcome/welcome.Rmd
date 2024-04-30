@@ -1,12 +1,11 @@
 ---
-title: "Welcome to My Blog"
+title: "Tian Walker's Website"
 description: |
-  Welcome to our new blog, My Blog. We hope you enjoy 
-  reading what we have to say!
+  See tabs to explore current projects and research 
 author:
-  - name: Nora Jones 
+  - name: 
     url: https://example.com/norajones
-    affiliation: Spacely Sprockets
+    affiliation: 
     affiliation_url: https://example.com/spacelysprokets
 date: 04-30-2024
 output:
