@@ -1,5 +1,9 @@
 ---
-title: "My Blog"
+title: "Welcome!"
 site: distill::distill_website
 listing: posts
 ---
+
+```{r echo=FALSE}
+knitr::include_graphics("see.png")
+```

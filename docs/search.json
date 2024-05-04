@@ -2,18 +2,26 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this blog",
-      "description": "Some additional details about the blog",
+      "title": "Bio",
+      "description": "Tian is studying statistics and data science at the University of Oregon in order to develop the skills needed to design and carry out research on diabetes that will be a main part of her dissertation as she works toward a PhD in biological anthropology. Tian is passionate about bringing together the rigour of anthropological methods and the rigour of statistics. The emphasis of her research is diabetes and understanding health through a lens of variability and constant change. She also integrates health justice and social theory into her work as a scholar. \nIn addition to her research work she is involved in running a local non-profit diabetes care organization focused on providing physical, emotional, and psychological needs to people living with type 1 diabetes. Through her role at this center she helps people access insulin when they cannot afford it, connects people with type 1 diabetes to experience community support, and organizes fundraising and advocacy events. \nTogether, through her work in diabetes care and her research as a graduate student, she is committed to improving the lives of people living with diabetes from as many angles as possible. \nTian began studying anthropology as an undergraduate student at California State University of Long Beach in 2010. It took her many years to find the exact path that she wanted to pursue to help people with diabetes. She chose anthropology because it walks the line of measurement and medicine that is present in the hard sciences while also creating a methodical way to account for individual human experience and social phenomena. ",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2024-04-30T01:37:54-07:00"
+      "last_modified": "2024-05-03T22:09:08-07:00"
+    },
+    {
+      "path": "collab.html",
+      "title": "Collaboration",
+      "description": "As a biological anthropologist, a large part of Tian's research is done in collaboration with large research teams. She has done research with the University of Oregon's Stress Adaptation and Resilience Lab as well as the Global Health Biomarker Lab. She is invested in training and mentoring students in biomarker collection, statistics, programming, and professional dissemination. ",
+      "author": [],
+      "contents": "\n\n\n\n\n\n\n\n\n\n",
+      "last_modified": "2024-05-03T22:09:08-07:00"
     },
     {
       "path": "index.html",
-      "title": "My Blog",
+      "title": "Welcome!",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2024-04-30T01:37:54-07:00"
+      "contents": "\n\n\n\n\n\n\n",
+      "last_modified": "2024-05-03T22:09:08-07:00"
     }
   ],
   "collections": ["posts/posts.json"]

@@ -4,10 +4,10 @@ description: |
   See tabs to explore current projects and research 
 author:
   - name: 
-    url: https://example.com/norajones
+    url: 
     affiliation: 
-    affiliation_url: https://example.com/spacelysprokets
-date: 04-30-2024
+    affiliation_url: 
+date: 
 output:
   distill::distill_article:
     self_contained: false
@@ -22,4 +22,9 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
+This website serves as a place to get additional information about Tian Walker as well as to learn more about her current projects
+
+```{r eval=FALSE, include=FALSE}
+knitr::include_graphics("see.png")
+```
 

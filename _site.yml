@@ -1,12 +1,15 @@
 name: "website_"
-title: "My Blog"
+title: "Tian Walker"
 description: |
-  My Blog
+  Tian is a 5th year doctoral student in biological anthropology at the 
+  University of Oregon studying health, statistics, and data science 
 output_dir: "docs"
 navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "Bio"
       href: about.html
+    - text: "Collaboration"
+      href: collab.html  
 output: distill::distill_article

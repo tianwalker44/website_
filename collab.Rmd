@@ -1,0 +1,18 @@
+---
+title: "Collaboration"
+description: |
+  As a biological anthropologist, a large part of Tian's research is done in collaboration with large research teams. She has done research with the University of Oregon's Stress Adaptation and Resilience Lab as well as the Global Health Biomarker Lab. She is invested in training and mentoring students in biomarker collection, statistics, programming, and professional dissemination. 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r echo=FALSE}
+knitr::include_graphics("posterPic.png")
+```
+
+
+```{r echo=FALSE}
+knitr::include_graphics("con_ad.png")
+```
